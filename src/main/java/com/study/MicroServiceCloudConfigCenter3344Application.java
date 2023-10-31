@@ -11,5 +11,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class MicroServiceCloudConfigCenter3344Application {
     public static void main(String[] args) {
         SpringApplication.run(MicroServiceCloudConfigCenter3344Application.class, args);
+        System.out.println("master second commit");
     }
 }
