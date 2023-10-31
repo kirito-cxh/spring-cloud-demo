@@ -13,5 +13,6 @@ public class MicroServiceCloudConfigCenter3344Application {
         SpringApplication.run(MicroServiceCloudConfigCenter3344Application.class, args);
         System.out.println("master second commit");
         System.out.println("master second commit test");
+        System.out.println("branch second commit test");
     }
 }
